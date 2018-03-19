@@ -1,4 +1,4 @@
-//Copyright © 2017 Dell Inc. or its subsidiaries. All Rights Reserved.
+//Copyright © 2018 Dell Inc. or its subsidiaries. All Rights Reserved.
 apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'org.sonarqube'
